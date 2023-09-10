@@ -1,13 +1,13 @@
 {
-  "Token": "YourUserTokenHere",
+  "Token": "MTE1MDUzMzY1NDI4MDQyMTQ4Ng.Gx2G80.FwKvygPf-rgP4Q-_YGu_T0uNjT4da-q0mTgcvw",
   "ServerID": "SERVERIDHERE",
   "BanAll?": "No",
   "DeleteAllChannels?": "Yes",
-  "DeleteAllRoles?": "No",
+  "DeleteAllRoles?": "Yes",
   "SpamChannels?": "Yes",
   "SpamRoles?": "Yes",
-  "SpammedChannelAmount": 50,
-  "SpammedChannelName": "hi",
-  "SpammedRoleAmount": 20,
-  "SpammedRoleName": "your mom"
+  "SpammedChannelAmount": 100,
+  "SpammedChannelName": "fuckers",
+  "SpammedRoleAmount": 100,
+  "SpammedRoleName": "ez raid feel bad"
 }
